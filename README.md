@@ -1,4 +1,4 @@
-## Olá mundo, meu nome é Rafael Kaique 
+## Olá terráqueos, meu nome é Rafael Kaique 
 
 
 - 🌱 Estudando programação
