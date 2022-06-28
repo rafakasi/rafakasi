@@ -1,6 +1,6 @@
 <img src="https://images.wallpapersden.com/image/download/landscape-pixel-art_bGhnaGeUmZqaraWkpJRmaGtrrWxrbQ.jpg" width="1000" height="300"/>
 
-<h3 align="center">Olá terráqueos, meu nome é Rafael Kaique!</h3>
+<h3 align="center">Hello earthlings, my name is Rafael Kaique!</h3>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
